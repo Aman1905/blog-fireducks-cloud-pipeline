@@ -1,0 +1,6 @@
+fireducks
+boto3
+memory_profiler
+matplotlib
+seaborn
+pandas
